@@ -28,6 +28,6 @@ Tecnologias Utilizadas
 
 
 Autores:
-Alex Menegatti Secco
 
-Mariana de Castro
+- Alex Menegatti Secco
+- Mariana de Castro
